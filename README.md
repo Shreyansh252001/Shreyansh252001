@@ -12,7 +12,7 @@ tells about me in the best way possible...............
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.smu.edu.in/"> <b>Sikkim Manipal Institute of Technology</b>, Pune</a>.  
+    I am a 3rd Year undergraduate from <a href="https://www.smu.edu.in/"> <b>Sikkim Manipal Institute of Technology</b>,rangpo,sikkim</a>.  
     A budding <b>Software Developer</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cyber Security/web dev/competitive programming  Enthusiast,</b>&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Rocket.gif" width="18px">and 
