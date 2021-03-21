@@ -51,7 +51,8 @@ tells about me in the best way possible...............
 ![Dino](https://github.com/viral-sangani/viral-sangani/blob/master/Assets/dino.gif)
 
 
-| [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Shubhamdeep Jha | Linkedin" width="34">](https://www.linkedin.com/in/shreyansh-shukla-187259181/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/shreyansh252001)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/LoadMatLeGoalLe) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10625373/programming-is-my-life) | 
+| [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Shreyansh Shukla | Linkedin" width="34">](https://www.linkedin.com/in/shreyansh-shukla-187259181/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/shreyansh252001)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/LoadMatLeGoalLe) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10625373/programming-is-my-life) | [img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png
+" alt="codechef logo" width="24">] (https://www.codechef.com/users/shreyansh2510)|
 |---|---|---|---|---|---|---|---|
 
 
