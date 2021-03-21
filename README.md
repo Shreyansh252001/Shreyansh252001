@@ -52,7 +52,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 
 <!--
 
-![Watch Out!!!! Watch out !!!!! Dino](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdinos-spenale-marie-j2l2crFmnSNvyxl6lg&psig=AOvVaw1Mr3vaMtIyfuyK1TIZqSXO&ust=1616416688292000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCNi-h8izwe8CFQAAAAAdAAAAABAD)
+![Watch Out!!!! Watch out !!!!! Dino](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
 
 
 
