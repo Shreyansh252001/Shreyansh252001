@@ -50,13 +50,26 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 <br>
 <br>
 
-<p>Marching Ahead Still like a Striver whatsoever happens!!!</p>&nbsp;<img alt="standing man" src="https://user-images.githubusercontent.com/51321665/111915318-a05dd500-8a9b-11eb-8ac3-b0ae0e5b35e1.png" width=20vw height=20vw />
+
+
+<p>Marching Ahead Still like a Striver whatsoever happens!!!--->&nbsp;<img alt="standing man" src="https://user-images.githubusercontent.com/51321665/111915318-a05dd500-8a9b-11eb-8ac3-b0ae0e5b35e1.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/33/thumb_532849_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/34/thumb_533309_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/34/thumb_533524_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/34/thumb_533672_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/34/thumb_533820_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/34/thumb_533968_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534103_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534264_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534454_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534603_icon_thumbnail_small.png" width=40vw height=40vw />---->
+&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534736_icon_thumbnail_small.png" width=40vw height=40vw />---->
+    &nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534911_icon_thumbnail_small.png" width=40vw height=40vw />---->
+    &nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/36/thumb_535024_icon_thumbnail_small.png" width=40vw height=40vw />
+    <!-----&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534736_icon_thumbnail_small.png" width=40vw height=40vw />---->
+</p>
 
 ![DINO](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
-
-
-
-
 
 
 
