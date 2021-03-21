@@ -31,14 +31,14 @@ tells about me in the best way possible...............
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)](https://github.com/anuraghazra/github-readme-stats)
+[![SHREYANSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
-!!!!#Connect with me!!!!!!<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Handshake.gif" height="32px">
+!!!!#Connect with me#!!!!!!<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Handshake.gif" height="32px">
 
 | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shreyansh-shukla-187259181/) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/LoadMatLeGoalLe)| [<img 
 src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shreyansh252001) | [<img 
@@ -50,7 +50,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 <br>
 <br>
 
-<p>Marching Ahead Still like a Striver whatsoever happens!!!</p>
+<p>Marching Ahead Still like a Striver whatsoever happens!!!</p>&nbsp;<img alt="standing man" src="https://user-images.githubusercontent.com/51321665/111915318-a05dd500-8a9b-11eb-8ac3-b0ae0e5b35e1.png" width=20vw height=20vw />
 
 ![DINO](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
 
@@ -80,9 +80,13 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <!--<td width="25%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>-->
+        <td width="25%" align="center">
+            <span><b>Data St and Algo</b></span><br><br><br>
+        <img height="64px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--H0AdlIEN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/srnvrd7vfeeq5qpxnabq.png">
       </td>
     </tr>
     <tr valign="top">
@@ -117,12 +121,15 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-          <span><b>Competitive Programming</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+<!--           </span>**Competitive-programming**</span><br><br><br> -->
+          <span><b>Competitive Coding</b></span><br><br><br>
+        <img height="64px" src="https://smashicons.com/uploads/media/icon_thumbnail/0004/74/thumb_373467_icon_thumbnail_small.png">
       </td>
     </tr>
   </tbody>
 </table>
+
+**Fun Fact:-**Press <kbd>Ctrl</kbd>+<kbd>C</kbd> to take a halt!!!!!!
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyansh252001)
