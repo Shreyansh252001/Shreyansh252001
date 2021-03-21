@@ -50,7 +50,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 <br>
 <br>
 
-<!--
+
 
 ![Watch Out!!!! Watch out !!!!! Dino](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
 
@@ -61,7 +61,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 ##
 
 <table>
   <tbody>
@@ -125,4 +125,4 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyansh252001)
 
--->
+
