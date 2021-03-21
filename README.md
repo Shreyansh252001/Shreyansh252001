@@ -69,7 +69,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
     <!-----&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534736_icon_thumbnail_small.png" width=40vw height=40vw />---->
 </p>
 
-![DINO](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)&nbsp<img alt=MARIO src="http://68.media.tumblr.com/63b76043ec0702413e7b243d52a726f5/tumblr_nk72yftPJn1s4jsnro1_1280.gif" height=436px width=391px/>
+![DINO](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)<img alt=MARIO src="http://68.media.tumblr.com/63b76043ec0702413e7b243d52a726f5/tumblr_nk72yftPJn1s4jsnro1_1280.gif" height=436px width=391px/>
 
 
 
