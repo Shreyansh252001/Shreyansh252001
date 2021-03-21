@@ -44,14 +44,15 @@ tells about me in the best way possible...............
 src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shreyansh252001) | [<img 
 src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30" height="30">](https://medium.com/@shreyansh252001) | [<img 
 src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) |[<img 
-src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="CodeChef Logo" height="32">]()
+src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="CodeChef Logo" height="32" width="90">](https://codeforces.com/profile/shreyansh2510)|[<img src="https://brandeps.com/icon-download/H/Hackerearth-icon-vector-01.svg" alt="hackerearth logo" height="32" width="50">](https://www.hackerearth.com/@shreyansh252001)|[<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="practice gfg img" height="32" width="50">](https://auth.geeksforgeeks.org/user/djs/practice/)|[<img 
+src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="practice gfg img" height="32" width="50">](https://leetcode.com/shreyansh252001/)
 
 <br>
 <br>
 
 <!--
 
-![Dino](https://github.com/viral-sangani/viral-sangani/blob/master/Assets/dino.gif)
+![Watch Out!!!! Watch out !!!!! Dino](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdinos-spenale-marie-j2l2crFmnSNvyxl6lg&psig=AOvVaw1Mr3vaMtIyfuyK1TIZqSXO&ust=1616416688292000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCNi-h8izwe8CFQAAAAAdAAAAABAD)
 
 
 
