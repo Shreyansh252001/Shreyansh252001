@@ -31,8 +31,7 @@ tells about me in the best way possible...............
 
 <br>
 
-![Shreyansh's github stats](https://github-readme-stats.vercel.app/api?username=shreyansh252001 &show_icons=true&hide_border=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
