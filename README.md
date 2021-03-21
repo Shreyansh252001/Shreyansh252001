@@ -50,7 +50,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 <br>
 <br>
 
-<p>Watch Out!! Watch out!! Dino before my stack!!</p>
+<p>Marching Ahead Still like a Striver whatsoever happens!!!</p>
 
 ![DINO](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
 
@@ -117,7 +117,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+          <span><b>Competitive Programming</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
     </tr>
