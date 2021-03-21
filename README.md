@@ -52,7 +52,7 @@ src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/log
 
 
 
-![Watch Out!!!! Watch out !!!!! Dino](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
+!Watch Out!!!! Watch out !!!!! Dino before my stack[DINO](https://github.com/Shreyansh252001/Shreyansh252001/blob/main/assets/giphy.gif)
 
 
 
