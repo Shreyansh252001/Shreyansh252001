@@ -42,7 +42,7 @@ tells about me in the best way possible...............
 
 | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shreyansh-shukla-187259181/) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/LoadMatLeGoalLe)| [<img 
 src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shreyansh252001) | [<img 
-src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30" height="10">](https://medium.com/@shreyansh252001) | [<img 
+src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30" height="30">](https://medium.com/@shreyansh252001) | [<img 
 src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) |[<img 
 src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="CodeChef Logo" height="32">]()
 
