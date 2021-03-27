@@ -46,7 +46,7 @@ src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/HackerRan
 src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) |[<img 
 src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="CodeChef Logo" height="32" width="90">](https://codeforces.com/profile/shreyansh2510)|[<img src="https://brandeps.com/icon-download/H/Hackerearth-icon-vector-01.svg" alt="hackerearth logo" height="32" width="50">](https://www.hackerearth.com/@shreyansh252001)|[<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="practice gfg img" height="32" width="50">](https://auth.geeksforgeeks.org/user/djs/practice/)|[<img 
 src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="practice gfg img" height="32" width="50">](https://leetcode.com/shreyansh252001/)|[<img 
-src="https://www.google.com/search?q=codechef+logo&sxsrf=ALeKk01TRiQQV6jWXQ6_sk-4394JR9u-8g:1616832623423&tbm=isch&source=iu&ictx=1&fir=_ORN0bYGGQsfOM%252COoysQlIxUjaXyM%252C_&vet=1&usg=AI4_-kTDna8l2PCZdQep5KZaHQ8WVR6sjQ&sa=X&ved=2ahUKEwjembjxgtDvAhUXxzgGHYd5BQsQ9QF6BAgQEAE#imgrc=_ORN0bYGGQsfOM" alt="Codechef img" height="32" width="50">](https://www.codechef.com/users/shreyansh2510)
+src="https://en.wikipedia.org/wiki/CodeChef#/media/File:Codechef(new)_logo.svg" alt="Codechef img" height="32" width="50">](https://www.codechef.com/users/shreyansh2510)
 
 <br>
 <br>
