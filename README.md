@@ -51,7 +51,7 @@ tells about me in the best way possible...............
   | 
   [<img src="assets/stackoverflow.jpeg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) 
   | 
-  [<img src="assets/medium.png" alt="Medium Logo" width="40" height="30">](https://medium.com/@shreyansh252001) 
+  [<img src="assets/medium.png" alt="Medium Logo" width="60" height="30">](https://medium.com/@shreyansh252001) 
   | 
   [<img src="assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) 
   |
