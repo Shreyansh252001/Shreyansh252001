@@ -1,33 +1,6 @@
-<!-----Shreyansh-Shukla--->
-<style>
-  #pq{
-    xmlns="http://www.w3.org/2000/svg";
 
-  viewBox="0 0 100 100";
-   style="background: transparent";
 
-    /* assume light theme by default and use black ink */
-
-    circle { fill: #000; }
-
-    /* if dark theme is detected, override with dark-mode styles and use light ink */
-    @media (prefers-color-scheme: dark) { circle { fill: #eee; } }
-
-    /* The above doesn't work. How about if we try the following? */
-    html[data-color-mode="dark"]
-     circle { fill: #acf; }
-    /* This is based on GitHub's html, which looks like the following (simplified):
-        〈html data-color-mode="dark"〉〈img src="this.svg"〉...
-    This assumes that this CSS-in-SVG can use a selector that matches
-    an ancestor element in the containing document and then traverses
-    into the contained SVG document to match a descendant element,
-    but this doesn't work either. */
-  </style>
-  <circle cx="50" cy="50" r="50"/>
-}
-</style>
-
-![image](assets/Dp.png)
+![image](assets/DP.png)
 
 tells about me in the best way possible...............
 # Shreyansh Shukla&nbsp;<img src="assets/Mario_Hello_Big.gif" width="30px">
@@ -83,7 +56,7 @@ tells about me in the best way possible...............
   [<img src="assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) 
   |
   [<img src="assets/Codeforces_logo.png" alt="CodeChef Logo" height="32" width="90">](https://codeforces.com/profile/shreyansh2510)|
-[<img src="assets/hackerearth.svg" alt="hackerearth logo" height="32" width="50">](https://www.hackerearth.com/@shreyansh252001)
+[<img src="assets/hackerearth.jpeg" alt="hackerearth logo" height="32" width="50">](https://www.hackerearth.com/@shreyansh252001)
 |[<img src="assets/gfg.png" alt="practice gfg img" height="32" width="50">](https://auth.geeksforgeeks.org/user/djs/practice/)
 |[<img src="assets/leetcode.webp" alt="practice gfg img" height="32" width="50">](https://leetcode.com/shreyansh252001/)
 |[<img src="assets/codechef.svg" alt="Codechef img" height="32" width="50">](https://www.codechef.com/users/shreyansh2510)
