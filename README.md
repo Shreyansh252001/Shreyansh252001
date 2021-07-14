@@ -62,7 +62,6 @@ tells about me in the best way possible...............
 <br>
 
 [![SHREYANSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)]
-(https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <img src="assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
@@ -77,7 +76,7 @@ tells about me in the best way possible...............
 | 
   [<img src="assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) 
   | 
-  [<img src="assets/stackoverflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) 
+  [<img src="assets/stackoverflow.jpeg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) 
   | 
   [<img src="assets/medium.png" alt="Medium Logo" width="30" height="30">](https://medium.com/@shreyansh252001) 
   | 
