@@ -51,14 +51,14 @@ tells about me in the best way possible...............
   | 
   [<img src="assets/stackoverflow.jpeg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) 
   | 
-  [<img src="assets/medium.png" alt="Medium Logo" width="30" height="30">](https://medium.com/@shreyansh252001) 
+  [<img src="assets/medium.png" alt="Medium Logo" width="40" height="30">](https://medium.com/@shreyansh252001) 
   | 
   [<img src="assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) 
   |
-  [<img src="assets/Codeforces_logo.png" alt="CodeChef Logo" height="32" width="90">](https://codeforces.com/profile/shreyansh2510)|
-[<img src="assets/hackerearth.jpeg" alt="hackerearth logo" height="32" width="50">](https://www.hackerearth.com/@shreyansh252001)
+  [<img src="assets/Codeforces_logo.png" alt="CodeChef Logo" height="32" width="100">](https://codeforces.com/profile/shreyansh2510)|
+[<img src="assets/hackerearth.jpeg" alt="hackerearth logo" height="32" width="70">](https://www.hackerearth.com/@shreyansh252001)
 |[<img src="assets/gfg.png" alt="practice gfg img" height="32" width="50">](https://auth.geeksforgeeks.org/user/djs/practice/)
-|[<img src="assets/leetcode.webp" alt="practice gfg img" height="32" width="50">](https://leetcode.com/shreyansh252001/)
+|[<img src="assets/leetcode.webp" alt="practice gfg img" height="32" width="70">](https://leetcode.com/shreyansh252001/)
 |[<img src="assets/codechef.svg" alt="Codechef img" height="32" width="50">](https://www.codechef.com/users/shreyansh2510)
 
 <br>
