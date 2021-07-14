@@ -77,9 +77,9 @@ tells about me in the best way possible...............
 | 
   [<img src="assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) 
   | 
-  [<img src="assets/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) 
+  [<img src="assets/stackoverflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10625373/programming-is-my-life) 
   | 
-  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30" height="30">](https://medium.com/@shreyansh252001) 
+  [<img src="assets/medium.png" alt="Medium Logo" width="30" height="30">](https://medium.com/@shreyansh252001) 
   | 
   [<img src="assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Shreyansh252001@gmail.com) 
   |
@@ -109,7 +109,6 @@ tells about me in the best way possible...............
 &nbsp;<img alt="standing man" src="assets/12.png" width=40vw height=40vw />---->
     &nbsp;<img alt="standing man" src="assets/13.png" width=40vw height=40vw />---->
     &nbsp;<img alt="standing man" src="assets/14.png" width=40vw height=40vw />
-    <!-----&nbsp;<img alt="standing man" src="https://smashicons.com/uploads/media/icon_thumbnail/0006/35/thumb_534736_icon_thumbnail_small.png" width=40vw height=40vw />---->
 </p>
 
 <img alt=MARIO src="assets/giphy.gif" height=391px width=245px/><img alt=MARIO src="assets/mario_running.gif" height=391px width=275px/><img alt=MARIO src="assets/jumpmario.gif" height=391px width=295px/>
