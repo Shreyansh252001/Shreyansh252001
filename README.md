@@ -34,7 +34,10 @@ tells about me in the best way possible...............
 
 <br>
 
-[![SHREYANSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)]
+![SHREYANSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)
+
+![shreyansh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyansh&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
+
 <br>
 
 <img src="assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
