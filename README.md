@@ -4,7 +4,7 @@
 
 tells about me in the best way possible...............
 
-![image](assets/hello(1).gif)
+![image](assets/Hello(1).gif)
 # Shreyansh Shukla&nbsp;<img src="assets/Mario_Hello_Big.gif" width="30px">
 
 <!--
