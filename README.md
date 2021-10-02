@@ -3,10 +3,12 @@
 ![image](assets/DP.png)
 
 tells about me in the best way possible...............
+
+![image](assets/hello(1).gif)
 # Shreyansh Shukla&nbsp;<img src="assets/Mario_Hello_Big.gif" width="30px">
 
 <!--
-    &nbsp; [![HitCount](http://hits.dwyl.com/viral-sangani/viral-sangani.svg)](http://hits.dwyl.com/viral-sangani/viral-sangani)
+    &nbsp; [![HitCount](http://hits.dwyl.com/shreyansh252001/shreyansh252001.svg)](http://hits.dwyl.com/shreyansh252001/shreyansh252001)
 -->
 
 <img align="right" alt="PC GIF" src="assets/PC.gif" width="190" />
