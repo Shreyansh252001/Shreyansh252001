@@ -131,7 +131,7 @@ tells about me in the best way possible...............
         <img height="64px" src="assets/github-icon.png">
       </td>
        <td width="25%" align="center">
-        <span>𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐉𝐬</span><br><br><br>
+        <span>𝐑𝐞𝐚𝐜𝐭 𝐉𝐬</span><br><br><br>
         <img height="64px" src="assets/react.svg">
       </td>
       <td width="25%" align="center">
