@@ -17,7 +17,7 @@ tells about me in the best way possible...............
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.smu.edu.in/"> <b>Sikkim Manipal Institute of Technology</b>,rangpo,sikkim</a>.  
+    I am a graduate from <a href="https://www.smu.edu.in/"> <b>Sikkim Manipal Institute of Technology</b>,Rangpo,Sikkim</a>.  
     A budding <b>Software Developer</b> <img src="assets/Developer.gif" width="30px"> and a <b>Cyber Security/web dev/competitive programming  Enthusiast,</b>&nbsp;<img src="assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="assets/Rocket.gif" width="18px">and 
@@ -27,7 +27,7 @@ tells about me in the best way possible...............
 
 <br>
 
-- <img alt="GIF" src="assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- <img alt="GIF" src="assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻 or doing **workout** <img src="https://tenor.com/bcOd7.gif" alt="gym gif" width="30px" height="30px" />
 - <img alt="GIF" src="assets/gandalf_parrot.gif" width="20vw" /> I’m _currently learning_ how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="assets/hmm.gif" width="20vw" /> I’m _looking_ for _help_ with **wifi connection 🌐 and with my DSA skills too**
 - <img alt="GIF" src="assets/happy.gif" width="20vw" />**Ask me about anything and i won't let you go**    - <img alt="GIF" src="assets/tenor.gif" width=20vw height=20vw/> **empty handed but do not take advantage of it!!!!!**
