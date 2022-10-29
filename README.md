@@ -27,7 +27,7 @@ tells about me in the best way possible...............
 
 <br>
 
-- <img alt="GIF" src="assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻 or doing **workout** <img src="https://tenor.com/bcOd7.gif" alt="gym gif" width="30px" height="30px" />
+- <img alt="GIF" src="assets/wave.gif" width="20px" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻 or doing **workout** <img src="https://tenor.com/bcOd7.gif" alt="gym gif" width="30px" height="30px" />
 - <img alt="GIF" src="assets/gandalf_parrot.gif" width="20vw" /> I’m _currently learning_ how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="assets/hmm.gif" width="20vw" /> I’m _looking_ for _help_ with **wifi connection 🌐 and with my DSA skills too**
 - <img alt="GIF" src="assets/happy.gif" width="20vw" />**Ask me about anything and i won't let you go**    - <img alt="GIF" src="assets/tenor.gif" width=20vw height=20vw/> **empty handed but do not take advantage of it!!!!!**
