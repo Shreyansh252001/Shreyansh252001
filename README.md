@@ -28,11 +28,11 @@ tells about me in the best way possible...............
 <br>
 
 - <img alt="GIF" src="assets/wave.gif" width="20px" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻 or doing **workout** <img src="https://tenor.com/bcOd7.gif" alt="gym gif" width="30px" height="30px" />
-- <img alt="GIF" src="assets/gandalf_parrot.gif" width="20vw" /> I’m _currently learning_ how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="assets/hmm.gif" width="20vw" /> I’m _looking_ for _help_ with **wifi connection 🌐 and with my DSA skills too**
-- <img alt="GIF" src="assets/happy.gif" width="20vw" />**Ask me about anything and i won't let you go**    - <img alt="GIF" src="assets/tenor.gif" width=20vw height=20vw/> **empty handed but do not take advantage of it!!!!!**
-- <img alt="GIF" src="assets/powerup.gif" width="20vw" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴
+- <img alt="GIF" src="assets/gandalf_parrot.gif" width="20" /> I’m _currently learning_ how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="assets/hmm.gif" width="20" /> I’m _looking_ for _help_ with **wifi connection 🌐 and with my DSA skills too**
+- <img alt="GIF" src="assets/happy.gif" width="20" />**Ask me about anything and i won't let you go**    - <img alt="GIF" src="assets/tenor.gif" width=20vw height=20vw/> **empty handed but do not take advantage of it!!!!!**
+- <img alt="GIF" src="assets/powerup.gif" width="20" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="assets/coin.gif" width="20" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴
 
 <br>
 
@@ -72,7 +72,7 @@ tells about me in the best way possible...............
 
 
 
-<p>Marching Ahead Still like a Striver whatsoever happens!!!--->&nbsp;<img alt="standing man" src="assets/1.png" width=40vw height=40vw />---->
+<p>Marching Ahead Still like a Striver whatsoever happens!!!--->&nbsp;<img alt="standing man" src="assets/1.png" width=40 height=40 />---->
 &nbsp;<img alt="standing man" src="assets/2.png" width=40vw height=40vw />---->
 &nbsp;<img alt="standing man" src="assets/3.png" width=40vw height=40vw />---->
 &nbsp;<img alt="standing man" src="assets/4.png" width=40vw height=40vw />---->
@@ -88,7 +88,7 @@ tells about me in the best way possible...............
     &nbsp;<img alt="standing man" src="assets/14.png" width=40vw height=40vw />
 </p>
 
-<img alt=MARIO src="assets/giphy.gif" height=391px width=245px/><img alt=MARIO src="assets/mario_running.gif" height=391px width=275px/><img alt=MARIO src="assets/jumpmario.gif" height=391px width=295px/>
+<img alt=MARIO src="assets/giphy.gif" height=250em width=325px /><img alt=MARIO src="assets/mario_running.gif" height=250em width=325px /><img alt=MARIO src="assets/jumpmario.gif" height=250em width=325px />
 
 
 
