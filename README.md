@@ -36,6 +36,8 @@ tells about me in the best way possible...............
 
 <br>
 
+[![Shreyansh252001's GitHub | Stats](https://stats.quine.sh/Shreyansh252001/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shreyansh252001)
+
 ![SHREYANSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh252001)
 
 <!--START_SECTION:waka-->
